@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Deluxe Ocean View",
+    "description": "Experience unparalleled luxury with our Deluxe Ocean View room, offering breathtaking vistas of the cerulean ocean. This opulent room boasts a plush king-sized bed, a private balcony where you can savor the ocean's symphony, and a suite of modern amenities that ensures an indulgent and comfortable stay. The soothing sound of the waves, the shimmering waters, and the mesmerizing sunsets create an enchanting ambiance that will leave you in awe. Make your stay even more memorable with our special offer: Get 10% off for a 7-night stay.",
+    "price": 250,
+    "availability": 5,
+    "image1": "https://imgur.com/ToeeU3m.jpg",
+    "image2": "https://imgur.com/ZGsWuoM.jpg",
+    "image3": "https://imgur.com/anpXEeq.jpg",
+    "image4": "https://imgur.com/Hj6bvpQ.jpg",
+    "specialoffer": "10% off for a 7-night stay"
+  },
+  {
+    "name": "Superior Suite",
+    "description": "Indulge in opulence with our Superior Suite, a spacious and elegant retreat that includes a separate living area. Relax in a king-sized bed, unwind in a private Jacuzzi, and behold the breathtaking city views from your suite. The panoramic vistas of the city lights at night create a magical ambiance. Begin your day with our complimentary breakfast, included as part of our special offer, and savor a delightful morning in the heart of the city.",
+    "price": 350,
+    "availability": 3,
+    "image1": "https://imgur.com/CHbKTv6.jpg",
+    "image2": "https://imgur.com/2JfLoiq.jpg",
+    "image3": "https://imgur.com/AKAahZ6.jpg",
+    "image4": "https://imgur.com/wrnpAej.jpg",
+    "specialoffer": "Complimentary breakfast included"
+  },
+  {
+    "name": "Garden View Villa",
+    "description": "Embark on a romantic escape to our Garden View Villa, nestled in lush and verdant gardens. This enchanting villa offers a private garden where you can share intimate moments, a cozy fireplace for cool evenings, and a queen-sized bed that promises restful nights. Revel in the beauty of nature and unwind in your secluded sanctuary. Enhance your stay with our special offer: Stay 4 nights and receive the 5th night free.",
+    "price": 300,
+    "availability": 2,
+    "image1": "https://imgur.com/gii4xLb.jpg",
+    "image2": "https://imgur.com/OdKedDF.jpg",
+    "image3": "https://imgur.com/mEm9K8n.jpg",
+    "image4": "https://imgur.com/r51LVK3.jpg",
+    "specialoffer": "Stay 4 nights, get the 5th night free"
+  },
+  {
+    "name": "Family Suite",
+    "description": "Our Family Suite is perfect for families, offering two separate bedrooms for added privacy, a fully equipped kitchen to prepare meals, and a spacious living area where you can bond with your loved ones. Rest in a king-sized bed, while the kids have their own twin beds. It's an ideal space for family getaways. Take advantage of our special offer: Kids stay free with two paying adults.",
+    "price": 400,
+    "availability": 4,
+    "image1": "https://imgur.com/xNYATCP.jpg",
+    "image2": "https://imgur.com/mPZ6p1q.jpg",
+    "image3": "https://imgur.com/TwkrED7.jpg",
+    "image4": "https://imgur.com/G1ug3yn.jpg",
+    "specialoffer": "Kids stay free with two paying adults"
+  },
+  {
+    "name": "Executive Penthouse",
+    "description": "Elevate your stay with the Executive Penthouse, the epitome of luxury. This opulent suite features a private rooftop terrace where you can soak in the sun, a Jacuzzi for ultimate relaxation, and panoramic city views that are simply awe-inspiring. The city lights at night create a magical ambiance. Enjoy a seamless arrival with our special offer: Complimentary airport transfer.",
+    "price": 500,
+    "availability": 1,
+    "image1": "https://imgur.com/Uad0czR.jpg",
+    "image2": "https://imgur.com/jtDtmNL.jpg",
+    "image3": "https://imgur.com/xx7GLi5.jpg",
+    "image4": "https://imgur.com/dpaoyIi.jpg",
+    "specialoffer": "Complimentary airport transfer"
+  },
+  {
+    "name": "Standard Double Room",
+    "description": "Our Standard Double Room offers comfort and affordability. It includes a cozy double bed, modern amenities, and easy access to the hotel's facilities. It's the perfect choice for those seeking a comfortable stay on a budget. Enjoy even more value with our special offer: Stay 3 nights and receive 1 night free.",
+    "price": 150,
+    "availability": 6,
+    "image1": "https://imgur.com/pciyG0D.jpg",
+    "image2": "https://imgur.com/4IFagGr.jpg",
+    "image3": "https://imgur.com/eJDIHP0.jpg",
+    "image4": "https://imgur.com/9OVbVqm.jpg",
+    "specialoffer": "Stay 3 nights, get 1 night free"
+  },
+  {
+    "name": "Honeymoon Suite",
+    "description": "Celebrate your special moments in our Honeymoon Suite, a haven for lovebirds. Enjoy a romantic queen-sized bed, a private balcony with mesmerizing ocean views, and a bottle of champagne upon arrival. Rekindle the romance in this charming suite and savor a memorable dinner for two with our special offer.",
+    "price": 300,
+    "availability": 2,
+    "image1": "https://imgur.com/VqdKbAu.jpg",
+    "image2": "https://imgur.com/PuXxRQF.jpg",
+    "image3": "https://imgur.com/mzfT9Ny.jpg",
+    "image4": "https://imgur.com/cDsAu1i.jpg",
+    "specialoffer": "Romantic dinner for two included"
+  }
+]
